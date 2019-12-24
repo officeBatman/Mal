@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mal", "Mal\Mal.fsproj", "{81BAFB27-0464-4E54-B749-FA87690EB9E8}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MalTest", "MalTest\MalTest.fsproj", "{B50D11A6-D288-4BBC-B191-F0EECBB77426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81BAFB27-0464-4E54-B749-FA87690EB9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BAFB27-0464-4E54-B749-FA87690EB9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BAFB27-0464-4E54-B749-FA87690EB9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BAFB27-0464-4E54-B749-FA87690EB9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50D11A6-D288-4BBC-B191-F0EECBB77426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50D11A6-D288-4BBC-B191-F0EECBB77426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50D11A6-D288-4BBC-B191-F0EECBB77426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50D11A6-D288-4BBC-B191-F0EECBB77426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9F2A542-A480-442B-AD05-085DB8D9EBA9}
+	EndGlobalSection
+EndGlobal

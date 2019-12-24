@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="TextFile1.txt" />
+    <Compile Include="Main.fs" />
+    <Compile Include="ParseInternal.fs" />
+    <Compile Include="Parse.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="APC">
+      <HintPath>..\..\APC\APC\bin\Release\netstandard2.0\APC.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
